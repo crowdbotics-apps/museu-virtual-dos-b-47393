@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b8c331a616d04306495e68c714f35d3592d11d18bf1a3e6d74bedf8330443884"
+            "sha256": "fece7a8f9047ec40e112559b16b3fcb4c734929707fad5c413517aa4615888ea"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -79,6 +79,10 @@
         "cb-django-ocr": {
             "editable": true,
             "path": "./modules/django_ocr"
+        },
+        "cb-django-openai": {
+            "editable": true,
+            "path": "./modules/django_openai"
         },
         "certifi": {
             "hashes": [
