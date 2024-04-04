@@ -64,6 +64,8 @@ This section will show any installed modules you add from the Storyboard Modules
 - [social-feed]()
 - [django-contact-us](backend/modules)
 - [django-disqus](backend/modules)
+- [faq]()
+- [react-native-photo-editing](modules/photo-editing)
 
 # Getting started: Frontend
 
