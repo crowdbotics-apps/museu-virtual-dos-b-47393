@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-qr-code](modules/qr-code)
 - [django-calendly](backend/modules)
 - [social-feed]()
+- [django-contact-us](backend/modules)
 
 # Getting started: Frontend
 
