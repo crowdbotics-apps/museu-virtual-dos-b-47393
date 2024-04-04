@@ -16,6 +16,7 @@
     "@babel/polyfill": "^7.12.1",
     "@modules/2fa": "file:./modules/2fa/",
     "@modules/qr-code": "file:./modules/qr-code/",
+    "@modules/social-feed": "file:./modules/social-feed",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",
     "@react-navigation/native-stack": "6.5.0",
