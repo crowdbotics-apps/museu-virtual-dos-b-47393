@@ -2535,7 +2535,7 @@
 "@modules/faq@file:./modules/faq":
   version "1.0.0"
 
-"@modules/onboarding@file:./modules/onboarding/":
+"@modules/onboarding@file:./modules/onboarding":
   version "1.0.0"
   dependencies:
     prop-types "^15.8.1"
